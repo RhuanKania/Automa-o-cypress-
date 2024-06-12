@@ -18,7 +18,8 @@
   },
   "homepage": "https://bitbucket.org/joaomfilho/teste-git#readme",
   "devDependencies": {
-    "cypress": "^10.3.1"
+    "cypress": "^10.11.0",
+    "install": "^0.13.0"
   },
   "dependencies": {
     "faker-br": "^0.4.1"
